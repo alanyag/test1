@@ -1,3 +1,4 @@
+st.write('我們的組名')
 import streamlit as st
 
 w = st.number_input('請輸入體重(KG)？')
